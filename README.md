@@ -18,6 +18,9 @@ O código principal do projeto está no Jupyter Notebook: [Algoritmo Genético e
 
 ### Principais componentes do notebook:
 
+Os dados utilizados foram extraídos do site da B3:
+(https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/cotacoes-historicas/)
+
 - **Carregamento de dados**: Importação de dados históricos de preços de ações.
 - **Funções do Algoritmo Genético**:
   - Inicialização da população.
